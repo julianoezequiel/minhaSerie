@@ -9,7 +9,7 @@ buildNumber.properties
 .mvn/timing.properties
 .metadata/
 RemoteSystemsTempFiles/
-Server/
+Servers/
 minhaserie/.mvn/
 minhaserie/.settings/
 minhaserie/target/
