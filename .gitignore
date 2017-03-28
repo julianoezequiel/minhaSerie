@@ -7,3 +7,13 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.metadata/
+RemoteSystemsTempFiles/
+Server/
+minhaserie/.mvn/
+minhaserie/.settings/
+minhaserie/target/
+minhaserie/src/resources/static/bower_componets/
+minhaserie/src/resources/static/node_modules/
+minhaserie/src/resources/static/dist/
+minhaserie/src/resources/static/.tmp/
